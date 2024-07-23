@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vipul Jain</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Jain</h1>
 <h3 align="center">A Passionate Web Developer from India 🎉</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=vipuljain08 alt=vipuljain08/></p>
 
-<p align="left"> <a href="https://x.com/vipuljain_08" target="blank"><img src="https://img.shields.io/twitter/follow/vipuljain_08?logo=twitter&style=for-the-badge" alt="vipuljain08" /></a> </p>
+## 👨🏻‍💻 About Me
+
+- 🧠 I’m currently learning `Next.Js`
+
+- 📫 How to reach me **vipuljain8801@gmail.com**
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vipuljain08 alt=vipuljain08/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
